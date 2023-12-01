@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html >
+<head>
+    <title>My First Webpage</title>
+    <link rel="stylesheet" href="index.css">
+
+    
+</head>
+<body>
+    <header>
+        <h1>My Simple Website</h1>
+    </header>
+
+    <nav>
+        <u1>
+            <1i><a href="#">Home</a></1i>
+            <1i><a href="#">Contact</a></1i>
+            <1i><a href="#">Services</a></1i>
+            <1i><a href="#">About</a></1i>
+
+
+        </u1>
+            
+    </nav>
+    
+    <main>
+        <Section>
+            <h2>Welcome to the  My First Interactive Website </h2>
+            <p>
+                This is the first very simple website.
+                in which i will be using HTML ,CSS and JAVASCRIPT.
+                Where i have unordered list inside a nav element.
+                and then i have used a main element inside which 
+                used section element to just separate the content.
+                Section element is used for better document structure and semantics.
+            </p>
+        </Section>
+    </main>
+    
+    
+</body>
+</html>
